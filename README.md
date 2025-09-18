@@ -1,0 +1,1 @@
+A simple Java-based application that calculates interest for different types of bank accounts. Designed for learners and developers exploring object-oriented programming, validation logic, and financial computations.
